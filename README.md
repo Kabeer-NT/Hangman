@@ -11,3 +11,10 @@ Flaticon Website: https://www.flaticon.com
 Background Image: https://www.freepik.com
 
 Freesound Website: https://freesound.org
+
+# Download Instructions
+
+1) Clone the Entire Folder
+2) Run the main.py File
+3) Press R to restart and play until you please
+
