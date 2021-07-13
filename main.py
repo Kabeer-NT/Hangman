@@ -220,7 +220,7 @@ while running:
             x, y = pygame.mouse.get_pos()
             if y > 500:
                 if not guess(x, y):
-                    wrong_sound = mixer.Sound("wrong.mp3")
+                    wrong_sound = mixer.Sound("wrong.wav")
                     wrong_sound.play()
                     wrong += chr(button_value(x, y))
                     if chr(button_value(x, y)) not in attempts:
